@@ -1,2 +1,0 @@
-ALTER TABLE cliente
-CHANGE telefone fone varchar(10);

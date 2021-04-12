@@ -1,2 +1,0 @@
-ALTER TABLE nome_da_tabela
-CHANGE telefone fone varchar(10);

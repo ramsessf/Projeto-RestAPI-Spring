@@ -1,2 +1,19 @@
 1615835973654	Delete element
 1615905238417	Rename resource 'cria-tabela-ordem-servico.sql'
+1616009843036	Delete element
+1616009903193	Rename package 'com.algaworks.osworks.controller'
+1616009920648	Rename package 'com.algaworks.osworks.domain.model'
+1616010060435	Rename package 'com.algaworks.osworks.domain.api.model'
+1616011271240	Rename package 'com.algaworks.osworks.api.controller'
+1616011298881	Rename package 'com.algaworks.osworks.controller'
+1616011316355	Rename package 'com.algaworks.osworks.api.controller'
+1616011332154	Rename package 'com.algaworks.osworks.api.exceptionhandler'
+1616011354173	Rename package 'com.algaworks.osworks.api.model'
+1616011363796	Copy package
+1616011375839	Delete element
+1616011427375	Rename package 'api'
+1616011436749	Delete element
+1616011468899	Delete element
+1616011485394	Rename package 'com.algaworks.osworks.model'
+1616011495147	Rename package 'com.algaworks.osworks.controller'
+1616011505312	Rename package 'com.algaworks.osworks.exceptionhandler'
